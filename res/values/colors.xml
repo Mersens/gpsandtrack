@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="actionbar_color">#51BCFA</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="base_color_text_gray">#DADADA</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="black_text_color">#656565</color>
+
+</resources>
